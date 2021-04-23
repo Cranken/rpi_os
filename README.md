@@ -1,3 +1,3 @@
 # rpi_os
-Bare-metal RPI os test  
+Bare-metal RPI 4 os test  
 Inspired by https://github.com/s-matyukevich/raspberry-pi-os
